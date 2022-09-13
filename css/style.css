@@ -2,7 +2,9 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin: 20px, 20px, 0px, 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1{
@@ -45,16 +47,16 @@ div.red{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 div.blue{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 div.yellow{
@@ -62,15 +64,15 @@ div.yellow{
     text-align: right;
     margin-left: 50px;
     border-bottom: 2px;
-    border-right: 5px;
+    border-left: 5px;
 }
 
 div.green{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 footer{
@@ -80,7 +82,7 @@ footer{
 
 footer p{
     font-size: 20px; 
-    text-align:r ight; 
+    text-align: right; 
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
